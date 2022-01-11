@@ -1,0 +1,2 @@
+# TIC-TAC-TOE
+Tic-tac-toe also known as noughts and crosses is a paper and pencil game for two players, whotake turns marking the spaces in a 3 x 3 grid traditionally. The player who succeeds in placingthree of their marks in a horizontal, vertical or diagonal row wins the game. It is a zero-sum of perfect information game. This means that it is deterministic, with fully observable environmentsin which two agents act alternately and the utility values at the end of the game are always equaland opposite. Because of the simplicity of tic-tac-toe.
